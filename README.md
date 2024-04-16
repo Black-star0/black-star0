@@ -23,7 +23,7 @@
 
 ---
 ### Education:
-<a href="https://www.unitn.it"><img src="https://png2.cleanpng.com/sh/4a5988642b443f7922701ed494093350/L0KzQYm3VsEyN6RtkZH0aYP2gLBuTgVvcadqiuVydImwf7e0lQJmdqV0Rdh7ZXWwhbBwlvVze5p5kZ94Zj3lf8vsjr1jd51BRd9qbnTofH76gBhwd50yh9g2YYDzfLrshL10d5Rued42c3PsdbBqhgMuPZM2fdUDYkDlQLftUMEvO2o9T6s5NUm0RYOBV8Q1OWI3T6QALoDxd1==/kisspng-university-of-trento-free-university-of-bozen-bolz-mandel-school-of-applied-social-sciences-5b1ec8b0b0ff01.398790591528744112725.png" alt="drawing" height="115" width="115"/>  
+<a href="https://www.unitn.it"><img src="https://png2.cleanpng.com/sh/a524f0fea959ead51d55e60bc7d9fe78/L0KzQYm3VsEyN6RtkZH0aYP2gLBuTgVvcadqiuVydImwf7e0lQJmdqV0Rdh7ZXWwhbBwlvVze5p5kZ94Zj3lf8vsjr1jd51BRd9qbnTofH76gBhwd50yh9g2YYDzfLrshL10d5Rued42c3PsdbBqhgMuPZM2fdUDYkDlQLftUMEvO2o9T6s5NUm0RYOBV8Q1OWI3T6QALoDxd1==/kisspng-university-of-trento-free-university-of-bozen-bolz-mandel-school-of-applied-social-sciences-5b1ec8b0b0ff01.398790591528744112725.png" alt="drawing" height="115" width="115"/>  
 
 ---
 ### Languages and Tools:
