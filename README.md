@@ -4,7 +4,7 @@
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-- 🎓 **Computer Science** student
+- 🎓 **Artificial Intelligence Systems** student
 - 🔭 Aspiring **Data Scientist**                                                      
 - 🌱 I’m currently programming in **Python** and **C++**
 - 👯 I’m looking to **collaborate** with other **programmers**
